@@ -1,0 +1,1 @@
+This is a imdb web scraper that will get us the title , release date, rating of the movie whose link is provided.
